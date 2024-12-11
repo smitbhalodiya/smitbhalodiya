@@ -1,24 +1,71 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=35&pause=500&center=true&random=false&width=435&lines=Hey!!+%F0%9F%91%8B;I'm+Smit+Bhalodiya" alt="Typing SVG" /></a></h1>
-<h3 align="center">I Am Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smitbhalodiya&label=Profile%20views&color=0e75b6&style=flat" alt="smitbhalodiya" /> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F77CFF&center=true&width=435&lines=Hello!+👋+I'm+Smit+Bhalodiya;Frontend+Developer+%7C+3%2B+Years+Experience">
+  </a>
+</h1>
 
-- 🌱 I'm currently working **Frontend Developing**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 💬 Ask me about **SASS, Bootstrap and Javascript**
+### 👨‍💻 About Me
+- 🛠️ I’m a **Frontend Developer** with **3+ years of experience**.
+- 🌟 Expertise in **HTML**, **CSS**, **SCSS**, **JavaScript**, **Laravel**, **WordPress**, and **Gulp**.
+- 🎯 Passionate about creating **dynamic, responsive**, and **user-friendly websites**.
+- 📧 Email me at: **bhalodiyasmit2409@gmail.com**.
+- 💬 Fun fact: I enjoy solving complex frontend challenges.
 
-- 📫 How to reach me **bhalodiyasmit2409@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌟 Skills & Technologies:
 <p align="left">
-<a href="https://linkedin.com/in/smit-bhalodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Smit Bhalodiya" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" alt="SASS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" alt="WordPress" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" alt="Gulp" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitbhalodiya&show_icons=true&locale=en&layout=compact" alt="smitbhalodiya" /></p>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitbhalodiya&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smitbhalodiya&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smitbhalodiya&theme=radical&margin-w=15" alt="GitHub Trophies" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitbhalodiya&show_icons=true&locale=en" alt="smitbhalodiya" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smitbhalodiya&" alt="smitbhalodiya" /></p>
+### 🛠️ Familiar Tools and Libraries
+| **Third-Party Libraries** | **Tools** |
+| -------------------------- | --------- |
+| **Sweet Alert 2**          | **Git**   |
+| **DataTables**             | **Webpack** |
+| **Swiper**                 | **VS Code** |
+| **Toastr**                 | **Figma** |
+
+---
+
+### 📌 Contributed Repositories
+| Repository | Stars | Issues |
+| ---------- | ----- | ------ |
+| Tailwind-Vite | ⭐⭐⭐ | Active |
+| Weather App   | ⭐⭐ | Resolved |
+
+---
+
+### 📜 Dev Quote
+> "More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason—including blind stupidity." - **William Wulf**
+
+---
+
+### 📂 My Projects
+| **Tech Stack** | **Project Name** |
+| -------------- | ---------------- |
+| HTML + CSS + JS | Responsive Web Design |
+| Laravel + Vue   | Dashboard App |
+| WordPress       | Portfolio Website |
+
